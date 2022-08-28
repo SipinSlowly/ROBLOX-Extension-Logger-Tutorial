@@ -3,4 +3,4 @@ Tutorial: Download the files index.js and manifest.json and make a folder after,
 
 Bait video: use https://www.youtube.com/watch?v=__ZAsgo-zDE and https://ssyoutube.com/en1/youtube-video-downloader to download the video.
 
-IMO This is the best method out rn, as it's super easy to fall for and you can even get beamed on mobile by it.
+IMO This is the best method out rn, as it's super easy to fall for and you can even get beamed on mobile by it. Show me some of your best hits with this @ a;#0003 as I would love to see :) more methods soon. #1 Github for ROBLOX Methods.
